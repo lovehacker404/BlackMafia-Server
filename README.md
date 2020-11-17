@@ -37,8 +37,8 @@
 
 `ls`
 
-`./Android-Setup.sh`
+`bash Android-Setup.sh`
 
-`./BlackMafia.sh`
+`bash BlackMafia.sh`
 
 
