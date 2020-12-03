@@ -27,9 +27,9 @@
 # Installation :
 
 
-`git clone https://github.com/lovehacker404/BlackMafia-Server`
+`git clone https://github.com/lovehacker404/BlackMafia-Server/`
 
-`cd BlackMafia-Server`
+`cd BlackMafia-Server/`
 
 `ls`
 
@@ -37,8 +37,8 @@
 
 `ls`
 
-`bash Android-Setup.sh`
+`./Android-Setup.sh`
 
-`bash BlackMafia.sh`
+`./BlackMafia.sh`
 
 
