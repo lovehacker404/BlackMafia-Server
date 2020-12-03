@@ -31,14 +31,8 @@
 
 `cd BlackMafia-Server/`
 
-`ls`
-
 `chmod 777 *`
 
-`ls`
-
 `./Android-Setup.sh`
-
-`./BlackMafia.sh`
 
 
