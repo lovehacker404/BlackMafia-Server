@@ -32,7 +32,7 @@ bash Logo.sh
 cat Logo.txt | lolcat
 echo ""
 echo "" 
-                 read -p $'\e[1;91m[\e[0m\e[1;91m *** \e[0m\e[1;96m]\e[0m\e[1;96m   Choose Any Options \e[0m'>
+                 read -p $'\e[1;91m[\e[0m\e[1;91m\e[0m\e[1;96m]\e[0m\e[1;96mChoose Any Options \e[0m'
                  echo ""
 		 if [ $option = 01 ] || [ $option = 1 ]
                  then 
