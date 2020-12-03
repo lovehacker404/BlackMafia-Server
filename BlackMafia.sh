@@ -9,7 +9,7 @@ clear
 echo ""
 echo ""
 echo ""
-read -p $'\e[1;40m\e[96m⚠️How you use this information is your responsibility\e[1;91m (Y/N) : \e[0m' option
+read -p $'\e[100;330m[\e[10m⛔]\e[1;40m\e[10mHow you use this information is your responsibility\e[1;91m (Y/N) : \e[0m' option
 echo""
 echo""
 echo""
