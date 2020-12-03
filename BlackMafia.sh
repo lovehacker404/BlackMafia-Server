@@ -2,14 +2,14 @@
 clear
 echo ""
 echo ""
-printf "\e[100;330m[\e[10m **** ]\e[1;40m\e[10m NGROK SERVER :\e[1;32m TURN ON MOBILE DATA & HOTSPOT OTHERWISE IT WILL NOT WORK !\e[0m"
+printf "\e[100;330m[\e[10m⛔]\e[1;40m\e[10m BlackMafia SERVER Conecting....:\e[1;32m TURN ON MOBILE DATA & HOTSPOT OTHERWISE IT WILL NOT WORK!\e[0m"
 sleep 4
 echo ""
 clear
 echo ""
 echo ""
 echo ""
-read -p $'\e[1;40m\e[96m E D U C A T I O N A l  P U R P O S E S  O N L Y ? \e[1;91m (Y/N) : \e[0m' option
+read -p $'\e[1;40m\e[96m⚠️How you use this information is your responsibility\e[1;91m (Y/N) : \e[0m' option
 echo""
 echo""
 echo""
@@ -31,10 +31,8 @@ clear
 bash Logo.sh
 cat Logo.txt | lolcat
 echo ""
-echo ""
- 
-                 echo -e $'\e[1;33m[\e[0m\e[1;33m *** \e[0m\e[1;96m]\e[0m\e[1;96m        ---------------      \e[1;33m  [ ]\e[0m'   
-                 read -p $'\e[1;91m[\e[0m\e[1;91m *** \e[0m\e[1;96m]\e[0m\e[1;96m    What You Want to Choose  \e[1;91m  > > > > > \e[0m' option
+echo "" 
+                 read -p $'\e[1;91m[\e[0m\e[1;91m *** \e[0m\e[1;96m]\e[0m\e[1;96m   Choose Any Options \e[0m'>
                  echo ""
 		 if [ $option = 01 ] || [ $option = 1 ]
                  then 
