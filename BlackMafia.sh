@@ -4,8 +4,10 @@ echo ""
 echo ""
 printf "\e[100;330m⛔\e[1;40m\e[10m BlackMafia SERVER Conecting....\e[0m"
 sleep 2
+echo ""
 printf "\e[100;330m⛔\e[1;40m\e[10m TURN ON MOBILE DATA & HOTSPOT!\e[0m"
 sleep 4
+echo ""
 printf "\e[100;330m⛔\e[1;40m\e[10m OTHERWISE IT WILL NOT WORK!\e[0m"
 sleep 3
 echo ""
@@ -36,7 +38,7 @@ bash Logo.sh
 cat Logo.txt | lolcat
 echo ""
 echo "" 
-                 read -p $'\e[1;91m[\e[0m\e[1;91m ⛔\e[0m\e[1;96m]\e[0m\e[1;96m Choose Any Option\e[1;91m>>\e[0m' option
+                 read -p $'\e[1;91m[\e[0m\e[1;91m⛔\e[0m\e[1;96m]\e[0m\e[1;96m Choose Any Option\e[1;91m>>\e[0m' option
                  echo ""
 		 if [ $option = 01 ] || [ $option = 1 ]
                  then 
